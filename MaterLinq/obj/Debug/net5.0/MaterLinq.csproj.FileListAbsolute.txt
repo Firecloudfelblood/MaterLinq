@@ -1,0 +1,15 @@
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/bin/Debug/net5.0/MaterLinq.deps.json
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/bin/Debug/net5.0/MaterLinq.runtimeconfig.json
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/bin/Debug/net5.0/MaterLinq.runtimeconfig.dev.json
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/bin/Debug/net5.0/MaterLinq.dll
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/bin/Debug/net5.0/ref/MaterLinq.dll
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/bin/Debug/net5.0/MaterLinq.pdb
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/MaterLinq.csprojAssemblyReference.cache
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/MaterLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/MaterLinq.AssemblyInfoInputs.cache
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/MaterLinq.AssemblyInfo.cs
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/MaterLinq.csproj.CoreCompileInputs.cache
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/MaterLinq.dll
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/ref/MaterLinq.dll
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/MaterLinq.pdb
+/Users/grimripper/RiderProjects/MaterLinq/MaterLinq/obj/Debug/net5.0/MaterLinq.genruntimeconfig.cache

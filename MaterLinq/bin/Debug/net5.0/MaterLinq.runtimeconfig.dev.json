@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/grimripper/.dotnet/store/|arch|/|tfm|",
+      "/Users/grimripper/.nuget/packages"
+    ]
+  }
+}
